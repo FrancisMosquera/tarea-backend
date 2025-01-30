@@ -1,0 +1,6 @@
+@tarea_backend_HostAddress = http://localhost:5244
+
+GET {{tarea_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
